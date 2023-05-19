@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0%;
+}
+header{
+    background-color: blue;
+    text-align: center;
+    padding: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+
+}
+#contenedor{
+    margin: 0% auto;
+    width: 1590px;
+    height:500px;
+    background-color: blanchedalmond;
+    
+    
+}
+.cuadritos{
+    
+    width: 721px;
+    height: 359px;
+    background-color: rgb(166, 142, 189);
+    display: flex;
+    margin: 20px;
+    margin-left: 82px;
+    margin-top: 112px;
+}
+
+.palabra{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: 100px;
+    text-align: center;
+    display: flex;
+    color: blue;
+
+
+}
