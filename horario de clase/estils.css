@@ -1,0 +1,68 @@
+body{
+    background-color: whitesmoke;
+}
+
+table th  {
+    width: 10em;
+    padding: 1em;
+    margin: 0 auto;
+   
+}
+
+TABLE{
+    border-collapse: collapse;
+}
+
+tr:nth-of-type(1)>th {
+    background-color: aquamarine;
+
+}
+
+td[colspan] {
+    text-align: center;
+    background-color: aqua;
+    font-weight: bold;
+}
+td{
+    text-align: center;
+}
+
+
+
+tr:nth-of-type(2) >th,
+tr:nth-of-type(3) >th,
+tr:nth-of-type(4) >th,
+tr:nth-of-type(5) >th,
+tr:nth-of-type(6) >th,
+tr:nth-of-type(7) >th,
+tr:nth-of-type(8) >th {
+    background-color: palevioletred;
+}
+
+.horalibre{
+    background-color: peru;
+}
+
+.m9{
+    background-color: bisque;
+}
+
+.m7{
+    background-color: rgb(205, 228, 210);
+}
+
+.m8{
+    background-color: rgb(188, 156, 218);
+}
+.m12{
+    background-color: rgb(194, 194, 103);
+
+}
+
+#Tutoria{
+    background-color: rgb(151, 96, 96);
+}
+
+
+
+
